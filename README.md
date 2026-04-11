@@ -11,9 +11,5 @@
 
   → [roku-perf](https://github.com/danecodes/roku-perf): CLI profiling tool for Roku channels:
   live metrics, SceneGraph diffing, BrightScript console
-  
-  → [roku-screenshot](https://github.com/danecodes/roku-screenshot): Capture, diff, and process
-  screenshots from Roku devices
-
 
   seattle. tv obsessed. brightscript survivor.
