@@ -9,7 +9,7 @@
   → [roku-ecp](https://github.com/danecodes/roku-ecp): TypeScript client for the Roku External 
   Control Protocol (ECP)
 
-  → [roku-perf](https://github.com/danecodes/roku-perf): CLI profiling tool for Roku channels:
+  → [roku-perf](https://github.com/danecodes/rokuperf): CLI profiling tool for Roku channels:
   live metrics, SceneGraph diffing, BrightScript console
 
   seattle. tv obsessed. brightscript survivor.
